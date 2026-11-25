@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Abderezzak Belhocine
 
-<!--
-**Abderezzak22/Abderezzak22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Automation & Industrial Computing Engineer (M.Sc.)**  
+Master 2 in *Automatique et Informatique Industrielle* — University of Tlemcen (2024–2026)  
+Licence in *Automatique* — University of Relizane (2020–2023)
 
-Here are some ideas to get you started:
+I bridge **control systems engineering** and **industrial software development**, combining theoretical foundations in automation and intelligent control with practical production software in Python, embedded systems, and FPGA/VHDL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus Areas
+- **Control & Automation:** Industrial Automation, Control Systems Design, Intelligent & Adaptive Control (Fuzzy Logic, Neural Networks, MRAC, Lyapunov Stability), Discrete-Event Systems, PLC / API.
+- **Embedded & Hardware:** FPGA & VHDL, Microcontrollers, Real-Time & Embedded Systems, Industrial Communication Networks.
+- **Software & Industrial IT:** Python Automation, Event-Driven Real-Time Monitoring Systems, SQLite & Database Architecture, REST / Async API Integration, C++.
+
+## Connect
+- **LinkedIn:** https://www.linkedin.com/in/abderezzak-belhocine-29697b241/
+- **Email:** aez.belhocine@gmail.com
+- **Location:** Algeria — Open to international & remote opportunities (Europe, Canada, Gulf, Remote)
